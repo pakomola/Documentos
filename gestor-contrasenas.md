@@ -1,4 +1,4 @@
-# Política de Privacidad – Almacén y Gestor de Claves en Local
+# Política de Privacidad – Almacén organizador y creador de claves en Local
 
 **Última actualización:** 30-09-2026
 
@@ -50,6 +50,6 @@ El uso de la aplicación implica la aceptación de esta política.
 ---
 
 **Desarrollador:** Pakomola
-**Aplicación:** Almacen y gestor de claves en local
+**Aplicación:** Almacén organizador y creador de claves en Local
 **Versión:** 1.0.0
 
